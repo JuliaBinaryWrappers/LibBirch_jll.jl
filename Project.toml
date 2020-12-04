@@ -1,6 +1,6 @@
 name = "LibBirch_jll"
 uuid = "9af553da-f2ee-58c4-bad9-1c5e8386f243"
-version = "1.75.0+0"
+version = "1.104.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
